@@ -1,4 +1,5 @@
-### 学习路径
-***
+# todo list
 
-- [ ] nginx
+* - [ ] Linux
+* - [ ] nginx
+* - [ ] 妙味
